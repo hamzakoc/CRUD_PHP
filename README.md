@@ -1,4 +1,4 @@
-# Pages:
+## Techno Shop [Preview](http://box5494.temp.domains/~uwdffwmy/php_crud/index.php)
 ## 1. Public Area
   a. Everyone (visitor, admin) can access the public area
     i. View items
